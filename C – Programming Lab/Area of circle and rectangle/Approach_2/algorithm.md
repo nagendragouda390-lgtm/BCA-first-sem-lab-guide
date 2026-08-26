@@ -1,3 +1,4 @@
+# Algorithm for finding area of circle and triangle
 Step 1: Start.
 Step 2: Define PI = 3.143.
 Step 3: Declare variables r, a, b, c, AC, s, AT.
