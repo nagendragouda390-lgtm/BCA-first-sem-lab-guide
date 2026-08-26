@@ -8,8 +8,8 @@
 7. Display the area of the circle.
 8. Check whether the three sides form a valid triangle: a+b > c AND b+c > a AND c+a > b    
 9. If the condition is true:
-           -Calculate s = (a+b+c)/2
-           -Calculate triangle area using Heron's formula: AT = √[s(s-a)(s-b)(s-c)]
-           -Display the area of the triangle.
+- Calculate s = (a+b+c)/2
+- Calculate triangle area using Heron's formula: AT = √[s(s-a)(s-b)(s-c)]
+- Display the area of the triangle.
 10. Otherwise, display "Enter valid triangle side."
 11. Stop.
