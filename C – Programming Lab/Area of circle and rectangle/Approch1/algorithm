@@ -1,0 +1,10 @@
+Step 1: Start
+Step 2: Declare variables r, a, b, c, AC, s, AT
+Step 3: Read radius r
+Step 4: Read sides of triangle a, b, c
+Step 5: Calculate area of circle: AC = 3.143 × r × r
+Step 6: Calculate semi-perimeter: s = (a + b + c) / 2
+Step 7: Calculate area of triangle using Heron's formula: AT = √[s(s-a)(s-b)(s-c)]
+Step 8: Display AC
+Step 9: Display AT
+Step 10: Stop
