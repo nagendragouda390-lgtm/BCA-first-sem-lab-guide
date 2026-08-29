@@ -1,1 +1,4 @@
-# BCA-first-sem-lab-guide
+# BCA
+## First sem practicals
+# Subjects
+- Introduction to Algorithms
