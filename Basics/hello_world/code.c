@@ -2,7 +2,7 @@
 
 void main()
 {
-    clrscr();
+    clrscr();  // To clrear precious outputs
     printf("Hello World!");
-    getch();
+    getch(); // To show output until enter a ley
 }
