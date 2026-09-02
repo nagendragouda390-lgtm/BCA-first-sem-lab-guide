@@ -27,17 +27,6 @@ Then update the values:
 
 Repeat this process to generate the required number of terms.
 
-## Algorithm
-
-1. Start.
-2. Read the number of terms `n`.
-3. Set `first = 0` and `second = 1`.
-4. Repeat `n` times:
-   - Print `first`.
-   - Calculate `next = first + second`.
-   - Set `first = second`.
-   - Set `second = next`.
-5. Stop.
 
 ## Example
 
