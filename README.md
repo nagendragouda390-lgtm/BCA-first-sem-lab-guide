@@ -7,4 +7,4 @@
 # Practicals
 - Algorithm lab
 - C programming lab
-
+<img src=BCA_first_sem.png img>
