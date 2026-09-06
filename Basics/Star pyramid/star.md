@@ -1,10 +1,10 @@
 # Expected output
-`
+
 *
 *    *
 *    *    * 
 *    *    *    *
-`
+
 
 # Condition
 - Use for loop
