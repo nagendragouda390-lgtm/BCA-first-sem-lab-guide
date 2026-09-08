@@ -6,9 +6,12 @@
 5. check whether binay is not zero
 6. If True:
 
-`` rem = binary % 2 ``
-`` dec = dec + rem * base``
+``rem = binary % 2 ``
+
+``dec = dec + rem * base``
+
 ``base = base * 2``
+
 ``binary = binary // 10``
 
 7. else come out of loop
