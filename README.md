@@ -1,4 +1,8 @@
 # BCA
+
+```
+Bachelor of computer applications
+```
 ## First sem practicals
 # Subjects
 - Introduction to Algorithms
