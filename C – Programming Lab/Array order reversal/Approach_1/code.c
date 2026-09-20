@@ -17,9 +17,9 @@ void main()
     }
   
     printf("Reversed arrray : ");
-    for(i=n-1; i >= 0; i++)
+    for(i=n-1; i >= 0; i--)
     {
-        printf("%d\t",nums[i]);
+        printf("%3d\t",nums[i]);
     }
 
     getch();
