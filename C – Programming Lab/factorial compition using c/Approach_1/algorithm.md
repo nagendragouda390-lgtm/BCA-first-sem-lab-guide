@@ -1,4 +1,5 @@
-<h1>Algorithm for Factorial Computation<\h1>
+<h1>Algorithm for Factorial Computation </h1>
+
 1. Start
 2. Declare variables `i`, `n`.
 3. Initialise `fact = 0`.
