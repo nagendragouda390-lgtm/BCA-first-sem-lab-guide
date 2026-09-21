@@ -1,4 +1,4 @@
-<h1>Algorithm for Factorial Computation </h1>
+<h2>Algorithm for Factorial Computation </h2>
 
 1. Start
 2. Declare variables `i`, `n`.
