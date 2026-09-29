@@ -2,13 +2,13 @@
 
 A practical GitHub repository for **BCA students** containing laboratory programs, algorithms, flowcharts, and practical resources.
 
-Created and maintained by **Nagendra**.
+Created and maintained by **Nagendra Gouda**.
 
 ---
 
 ## 👨‍💻 Author
 
-**Nagendra**  
+**Nagendra Gouda**  
 BCA Student
 
 ---
