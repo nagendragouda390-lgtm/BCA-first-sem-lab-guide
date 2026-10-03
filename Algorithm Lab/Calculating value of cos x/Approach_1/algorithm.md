@@ -7,7 +7,7 @@
     `` x = x × π/180``
 5. calculate cos value using tailor series
 
-``. cos_x = 1 - x²/2! + x⁴/4! - x⁶/6!``
+`` cos_x = 1 - x²/2! + x⁴/4! - x⁶/6!``
 
 6. Display cos_x value.
 7. Stop
