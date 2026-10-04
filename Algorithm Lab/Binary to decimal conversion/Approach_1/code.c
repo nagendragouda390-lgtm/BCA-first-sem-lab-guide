@@ -3,11 +3,10 @@
 
 void main()
 {
-    long long binary; // for big binary numbers
-    int dec=0,base = 1,digit;
+    int binary,dec=0,base = 1,digit;
     
     printf("Enter Binary : ");
-    scanf("%lld",&binary);
+    scanf("%d",&binary);
     
     while (binary != 0)
     {
