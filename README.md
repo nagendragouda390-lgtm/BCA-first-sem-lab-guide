@@ -49,8 +49,8 @@ This repository is designed to help BCA students:
 
 The programs in this repository can be practiced using:
 
-- **Pydroid 3**
-- **Turbo C**
+- **Turbo C++**
+- **Cxxdroid**
 
 ---
 
