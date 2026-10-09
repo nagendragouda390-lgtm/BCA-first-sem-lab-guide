@@ -5,7 +5,11 @@ A practical GitHub repository for **BCA students** containing laboratory program
 Created and maintained by **Nagendra Gouda**.
 
 ---
+# Instructions
+- Codes are written for turbo c++
+- Some code may not work on other compiler
 
+---
 ## 👨‍💻 Author
 
 **Nagendra Gouda**  
