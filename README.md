@@ -8,6 +8,7 @@ Created and maintained by **Nagendra Gouda**.
 # Instructions
 - Codes are written for turbo c++
 - Some code may not work on other compiler
+- [click here for more information](https://en.wikipedia.org/wiki/Turbo_C%2B%2B)
 
 ---
 ## 👨‍💻 Author
