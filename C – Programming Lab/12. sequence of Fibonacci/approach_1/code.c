@@ -9,11 +9,12 @@ void main()
     
     printf("Enter number of terms : ");
     scanf("%d",&n);
-    
-    for (i = 1;i<=n ;i++)
+
+    printf("Fibonacci sequence : 0  1  ");
+    for (i = 3;i<=n ;i++)
     {
-        printf("%d ",a);
         c = a + b;
+        printf("%d. ",c);
         a = b;
         b = c;
     }
