@@ -13,9 +13,9 @@ void main()
     
     x = x*3.142/180; // Converting degree to radian
     
-    sin = x - pow(x,3)/6 + pow(x,5)/120 - pow(x,7)/5040 + pow(x,9)/362880 - pow(x,11)/39916800; // Tailor series
+    sin = x - pow(x,3)/6 + pow(x,5)/120 - pow(x,7)/5040; // Tailor series
     
-    printf("\n\n sin value = %.2f\n\n",sin);
+    printf("sin value = %.2f",sin);
     
     getch();
     
