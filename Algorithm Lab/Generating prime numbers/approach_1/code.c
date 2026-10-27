@@ -9,7 +9,8 @@ void main()
     
     printf("Enter a number : ");
     scanf("%d",&n);
-    
+
+    printf("\nPrime numbers : ");
     for(i=2;i <= n; i++)
     {
         for(j=2;j < i;j++)
@@ -18,7 +19,7 @@ void main()
                 break;
         }
         if (i == j)
-            printf("%d\t",i);
+            printf("%d  ",i);
     }
 
     getch();
